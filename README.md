@@ -18,6 +18,5 @@
 
 🌱 Learning every day & growing through practice.
 ## 📫 Connect With Me
-- www.linkedin.com/in/
-lakshnarubavathy
+- www.linkedin.com/in/lakshnarubavathy
 - a.lakshnarubavathy98@gmail.com
