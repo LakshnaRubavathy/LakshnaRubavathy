@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Lakshna Rubavathy👋
 
-<!--
-**LakshnaRubavathy/LakshnaRubavathy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Aspiring Data Analyst passionate about transforming raw data into actionable insights.
 
-Here are some ideas to get you started:
+💻 Tools & Skills:
+- Excel
+- SQL
+- Power BI
+- Python
+- Data Cleaning
+- Data Visualization
+- Dashboard Design
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Currently building:
+- Real-world analytics projects
+- Interactive dashboards
+- Data storytelling case studies
+
+🌱 Learning every day & growing through practice.
+## 📫 Connect With Me
+- www.linkedin.com/in/
+lakshnarubavathy
+- a.lakshnarubavathy98@gmail.com
