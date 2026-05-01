@@ -6,7 +6,6 @@
 - Excel
 - SQL
 - Power BI
-- Python
 - Data Cleaning
 - Data Visualization
 - Dashboard Design
